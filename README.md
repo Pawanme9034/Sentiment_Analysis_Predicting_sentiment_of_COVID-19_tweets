@@ -72,3 +72,6 @@ Understanding where competitors are gaining traction in terms of tweet activity 
 Missed Opportunities: 
 
 If certain locations are not represented in the high-tweet counts, it might signify missed opportunities for market penetration in those areas.
+
+![image](https://github.com/Pawanme9034/Sentiment_Analysis_Predicting_sentiment_of_COVID-19_tweets/assets/122411441/b0768340-4daa-41af-873c-4e9d32ab9120)
+
